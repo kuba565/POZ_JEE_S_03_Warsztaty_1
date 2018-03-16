@@ -1,4 +1,4 @@
-package zdanie5;
+package zadanie5;
 
 public class WordsSearch {
 
